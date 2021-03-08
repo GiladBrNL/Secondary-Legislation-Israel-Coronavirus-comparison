@@ -1,0 +1,17 @@
+Welcome to the Secondary-Legislation-Israel-Coronavirus-comparison wiki!
+SecLeg <- read_excel("~/Data regulations Israel/SecLeg.xlsx")
+View(SecLeg)
+#average 24 months prior to the start of the pandemic regulations in Israel 
+average_prior<- 8036
+data.frame(SecLeg)
+# plot bytes by month -----------------------------------------------------
+par(mfrow= c(1,3))
+par(bg="yellow")
+pic2<- Secleg%>%filter(Secleg$Year_prior==2)
+barplot(height = pic1$Bytes, col = "green",border="#69b3a2",ylab="Bytes" ,main = "3/2018-2/2019 Bytes קובץ התקנות", sub = "Fix number of workers")
+pic3<- Secleg%>%filter(Secleg$Year_prior==1)
+barplot(height = pic3$Bytes,col = "orange",border="#69b3a2",ylab="Bytes", main = "3/2019-2/2020 Bytes קובץ התקנות", sub = "Ave. 2 years prior pandemic 8036 bytes")
+pic4 <- Secleg%>%filter(Secleg$Year_prior==0)
+barplot(height = pic4$Bytes, col = "red", ylab="Bytes", main = "3/2020-2/2021 Bytes קובץ התקנות", sub ="Increase of 73% 2020-2021 vs 2019-2020", border="#69b3a2")
+
+
