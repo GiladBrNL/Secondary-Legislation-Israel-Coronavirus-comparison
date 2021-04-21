@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+ ברוכים הבאים
 
 You can use the [editor on GitHub](https://github.com/GiladBrNL/Secondary-Legislation-Israel-Coronavirus-comparison/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://github.com/GiladBrNL/Secondary-Legislation-Israel-Coronavirus-comparison/blob/main/PowerBI/sec.png?raw=true) and ![https://github.com/GiladBrNL/Secondary-Legislation-Israel-Coronavirus-comparison/blob/main/PowerBI/sec.png?raw=true](src)
+[https://github.com/GiladBrNL/Secondary-Legislation-Israel-Coronavirus-comparison/blob/main/PowerBI/sec.png?raw=true]
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
