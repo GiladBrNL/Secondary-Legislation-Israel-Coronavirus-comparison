@@ -23,8 +23,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[https://github.com/GiladBrNL/Secondary-Legislation-Israel-Coronavirus-comparison/blob/main/PowerBI/sec.png?raw=true]
-```
+<img width="595" alt="sec" src="https://user-images.githubusercontent.com/72964986/115528097-65b5ab00-a29a-11eb-8721-b8b14a615c73.png">
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
