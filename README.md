@@ -9,5 +9,7 @@ Source of data : https://www.gov.il/he/departments/dynamiccollectors/gazette-off
 
 Contact information: Gilad1250@gmail.com
 
+GitHub webpage: https://giladbrnl.github.io/Secondary-Legislation-Israel-Coronavirus-comparison/
+
 
 https://github.com/GiladBrNL/Secondary-Legislation-Israel-Coronavirus-comparison/blob/main/PowerBI/sec.png?raw=true
